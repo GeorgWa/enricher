@@ -1,0 +1,8 @@
+pyproject.toml
+enricher/__init__.py
+enricher/main.py
+enricher.egg-info/PKG-INFO
+enricher.egg-info/SOURCES.txt
+enricher.egg-info/dependency_links.txt
+enricher.egg-info/requires.txt
+enricher.egg-info/top_level.txt

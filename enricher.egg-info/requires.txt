@@ -1,0 +1,6 @@
+requests
+gradio
+pandas
+numpy
+openai
+unipressed

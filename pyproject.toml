@@ -1,0 +1,11 @@
+[project]
+name = "enricher"
+version = "0.0.1"
+dependencies = [
+    'requests',
+    'gradio',
+    'pandas',
+    'numpy',
+    'openai',
+    'unipressed',
+]
