@@ -188,4 +188,4 @@ with gr.Blocks() as demo:
     
 if __name__ == "__main__":
     demo.queue()
-    demo.launch(server_port=8000)
+    demo.launch(server_port=8000, server_name="0.0.0.0")
